@@ -1,0 +1,7 @@
+C:\Dev\Dropbox\My Dropbox\MVCVideoStore\VideoStore.Tests.Repositories\bin\Debug\VideoStore.Tests.Repositories.dll
+C:\Dev\Dropbox\My Dropbox\MVCVideoStore\VideoStore.Tests.Repositories\bin\Debug\VideoStore.Tests.Repositories.pdb
+C:\Dev\Dropbox\My Dropbox\MVCVideoStore\VideoStore.Tests.Repositories\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Dropbox\My Dropbox\MVCVideoStore\VideoStore.Tests.Repositories\obj\Debug\VideoStore.Tests.Repositories.dll
+C:\Dev\Dropbox\My Dropbox\MVCVideoStore\VideoStore.Tests.Repositories\obj\Debug\VideoStore.Tests.Repositories.pdb
+C:\Dev\Dropbox\My Dropbox\MVCVideoStore\VideoStore.Tests.Repositories\bin\Debug\VideoStore.Domain.dll
+C:\Dev\Dropbox\My Dropbox\MVCVideoStore\VideoStore.Tests.Repositories\bin\Debug\VideoStore.Domain.pdb

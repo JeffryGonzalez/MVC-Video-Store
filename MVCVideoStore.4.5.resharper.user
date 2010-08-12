@@ -1,0 +1,189 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="TestMethod" priority="0" />
+      <Item value="public" priority="13" />
+      <Item value="void" priority="10" />
+      <Item value="var" priority="10" />
+      <Item value="Rhino" priority="0" />
+      <Item value="Mocks" priority="0" />
+      <Item value="RhinoMocks" priority="0" />
+      <Item value="Mocker" priority="0" />
+      <Item value="session" priority="1" />
+      <Item value="s" priority="1" />
+      <Item value="new" priority="20" />
+      <Item value="IDictionary" priority="4" />
+      <Item value="int" priority="11" />
+      <Item value="string" priority="5" />
+      <Item value="ctor" priority="1" />
+      <Item value="this" priority="2" />
+      <Item value="Add" priority="1" />
+      <Item value="Assert" priority="3" />
+      <Item value="as" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="sess" priority="0" />
+      <Item value="VideoServiceTests" priority="1" />
+      <Item value="vs" priority="0" />
+      <Item value="return" priority="5" />
+      <Item value="Video" priority="19" />
+      <Item value="service" priority="2" />
+      <Item value="vids" priority="0" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="T" priority="6" />
+      <Item value="where" priority="0" />
+      <Item value="IEntity" priority="1" />
+      <Item value="private" priority="8" />
+      <Item value="IRepository" priority="2" />
+      <Item value="TestInitialize" priority="0" />
+      <Item value="repository" priority="7" />
+      <Item value="r" priority="2" />
+      <Item value="Id" priority="10" />
+      <Item value="VideoService" priority="2" />
+      <Item value="videos" priority="2" />
+      <Item value="static" priority="0" />
+      <Item value="IComparable" priority="1" />
+      <Item value="lhs" priority="0" />
+      <Item value="vid" priority="1" />
+      <Item value="Title" priority="5" />
+      <Item value="Arg" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="Linq" priority="0" />
+      <Item value="v" priority="2" />
+      <Item value="id" priority="0" />
+      <Item value="decimal" priority="1" />
+      <Item value="Web" priority="0" />
+      <Item value="Mvc" priority="0" />
+      <Item value="ControllerContext" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="context" priority="1" />
+      <Item value="HttpSessionStateBase" priority="1" />
+      <Item value="Session" priority="2" />
+      <Item value="const" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="Director" priority="4" />
+      <Item value="RentalDays" priority="4" />
+      <Item value="RentalPrice" priority="4" />
+      <Item value="YearReleased" priority="4" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="Videos" priority="7" />
+      <Item value="item" priority="3" />
+      <Item value="nextKey" priority="1" />
+      <Item value="videoService" priority="1" />
+      <Item value="VideoSessionRepository" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateMock" priority="0" />
+      <Item value="GenerateStub" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ControllerContext">
+      <Item value="Expect" priority="0" />
+      <Item value="Stub" priority="0" />
+      <Item value="HttpContext" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContextBase">
+      <Item value="Session" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Return" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual" priority="2" />
+      <Item value="IsNotNull" priority="0" />
+      <Item value="IsTrue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VideoStore.Domain.IRepository`1">
+      <Item value="Stub" priority="2" />
+      <Item value="GetById" priority="3" />
+      <Item value="GetAll" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AsEnumerable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VideoStore.Domain.VideoService">
+      <Item value="GetById" priority="0" />
+      <Item value="GetAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.Arg">
+      <Item value="Is" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VideoStore.Domain.Video">
+      <Item value="Id" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Single" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VideoStore.Tests.Repositories.VideoSessionRepository">
+      <Item value="session" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Add" priority="2" />
+      <Item value="Values" priority="2" />
+      <Item value="Max" priority="0" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="AsEnumerable" priority="0" />
+      <Item value="Max" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VideoStore.Controllers.VideosController">
+      <Item value="ControllerContext" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5EBEE0CD-BC05-4996-9DFD-FB3940BEB1D1/f:AuthoringTests.txt" caret="1359" fromTop="28" />
+      <File id="15F11A3C-8B00-406C-8C48-D7628F0096E7/f:IEntity.cs" caret="53" fromTop="2" />
+      <File id="d:&amp;/f:Extensions.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?Videostore.Domain.Tests?Extensions.cs" caret="338" fromTop="12" />
+      <File id="15F11A3C-8B00-406C-8C48-D7628F0096E7/f:VideoService.cs" caret="439" fromTop="16" />
+      <File id="d:&amp;/f:Video.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Domain?Video.cs" caret="527" fromTop="18" />
+      <File id="d:&amp;/f:IRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Domain?IRepository.cs" caret="333" fromTop="13" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="321" fromTop="14" />
+      <File id="40A0D6AC-87E8-4700-901C-C93595DF75A6/d:Controllers/f:VideosController.cs" caret="635" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="d:&amp;/f:IRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Domain?IRepository.cs" caret="173" fromTop="7" />
+      <File id="15F11A3C-8B00-406C-8C48-D7628F0096E7/f:VideoService.cs" caret="548" fromTop="21" />
+      <File id="d:&amp;/f:Extensions.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?Videostore.Domain.Tests?Extensions.cs" caret="324" fromTop="11" />
+      <File id="d:&amp;/f:Video.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Domain?Video.cs" caret="228" fromTop="12" />
+      <File id="15F11A3C-8B00-406C-8C48-D7628F0096E7/f:VideoService.cs" caret="68" fromTop="1" />
+      <File id="15F11A3C-8B00-406C-8C48-D7628F0096E7/f:VideoService.cs" caret="439" fromTop="16" />
+      <File id="d:&amp;/f:Video.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Domain?Video.cs" caret="536" fromTop="18" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="659" fromTop="28" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="611" fromTop="23" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="812" fromTop="17" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="808" fromTop="15" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="1849" fromTop="1" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="3607" fromTop="22" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="3725" fromTop="26" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="3837" fromTop="28" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="990" fromTop="20" />
+      <File id="d:&amp;/f:IRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Domain?IRepository.cs" caret="333" fromTop="13" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="254" fromTop="10" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="3829" fromTop="21" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="4004" fromTop="17" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="4107" fromTop="22" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="4221" fromTop="27" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="4201" fromTop="27" />
+      <File id="d:&amp;/f:VideoSessionRepository.cs/l:C!?Dev?Dropbox?My Dropbox?MVCVideoStore?VideoStore.Tests.Repositories?VideoSessionRepository.cs" caret="321" fromTop="14" />
+      <File id="40A0D6AC-87E8-4700-901C-C93595DF75A6/d:Controllers/f:VideosController.cs" caret="378" fromTop="15" />
+      <File id="40A0D6AC-87E8-4700-901C-C93595DF75A6/d:Controllers/f:VideosController.cs" caret="520" fromTop="19" />
+      <File id="40A0D6AC-87E8-4700-901C-C93595DF75A6/d:Controllers/f:VideosController.cs" caret="633" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>
